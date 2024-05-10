@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [muhammedh-shadir](muhammedh-shadir)
+- 👨‍💻 All of my projects are available at [muhammedh-shadir](https://github.com/HieuSR4?tab=repositories)
 
 - 💬 Ask me about **MERN stack and related technologies**
 
