@@ -5,21 +5,21 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [muhammedh-shadir](https://github.com/HieuSR4?tab=repositories)
+- 👨‍💻 All of my projects are available at [HieuSR4](https://github.com/HieuSR4?tab=repositories)
 
-- 💬 Ask me about **MERN stack and related technologies**
+- 💬 Ask me about **Python and Artificial Intelligence**
 
-- 📫 How to reach me **muhammedhshadir@gmail.com**
+- 📫 How to reach me **dangquanghieu1902@gmail.com**
 
 - ⚡ Fun fact **Football fanatic, Madridista**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shadirmuhammedh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadirmuhammedh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammedhshadir/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21383227/muhammedh-shadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21383227/muhammedh-shadir" height="30" width="40" /></a>
-<a href="https://web.facebook.com/muhammedh.shadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/muhammedh.shadir/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammedhshadir/" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shadirmuhammedh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/quanghieu-sr4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammedhshadir/" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21383227/muhammedh-shadir" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/muhammedh.shadir/" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhammedhshadir/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
